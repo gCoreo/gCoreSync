@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "Fuck",
+        "Name": "Fuck Lop Sync",
+        "InternalName": "gCoreSync",
+        "AssemblyVersion": "1.0.5.0",
+        "TestingAssemblyVersion": "1.0.5.0",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/gCoreo/MareClient",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "Punchline": "Social modding for everyone!",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/gCoreo/MareClient/releases/download/yes/gCoreSync-Release.zip",
+        "DownloadLinkTesting": "https://github.com/gCoreo/MareClient/releases/download/yes/gCoreSync-Release.zip",
+        "DownloadLinkUpdate": "https://github.com/gCoreo/MareClient/releases/download/yes/gCoreSync-Release.zip"
+    }
+]
